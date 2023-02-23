@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=./deploy.yml
 name: deploy-toy-website-end-to-end
 concurrency: toy-company
 
